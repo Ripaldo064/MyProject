@@ -1,3 +1,3 @@
 # MyProject
 Repository Baru Dari PC Lokal 
-Hello
+Hello, Tugas Akhir git saya
